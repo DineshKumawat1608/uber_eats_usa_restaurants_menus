@@ -5,7 +5,7 @@ This project uses Python and SQL to study restaurant menus in the USA.
 I checked prices, food categories, cuisines, and restaurant trends.
 
 ## 📂 Dataset
-Uber Eats USA Restaurants Menus (Kaggle)
+Uber Eats USA Restaurants Menus (Kaggle) :- https://www.kaggle.com/datasets/ahmedshahriarsakib/uber-eats-usa-restaurants-menus
 
 ## 🛠 Tools Used
 - Python (Pandas, NumPy)
